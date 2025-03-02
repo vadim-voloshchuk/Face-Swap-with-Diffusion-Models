@@ -33,6 +33,19 @@
 ### 🏆 Stable Diffusion XL 1.0 Inpainting
 ![Stable Diffusion XL Comparison](tests/results/diffusers_stable-diffusion-xl-1.0-inpainting-0.1/comparison.jpg)
 
+### 🖼 Kandinsky 2-2 Decoder Inpaint
+![Kandinsky Comparison](tests/results/kandinsky-community_kandinsky-2-2-decoder-inpaint/comparison.jpg)
+
+### 🔵 StabilityAI Stable Diffusion 2 Inpainting
+![Stable Diffusion 2 Comparison](tests/results/stabilityai_stable-diffusion-2-inpainting/comparison.jpg)
+
+### 🔶 Saik0s Realistic Vision Inpainting
+![Realistic Vision Comparison](tests/results/saik0s_realistic_vision_inpainting/comparison.jpg)
+
+### 🌈 Lykon Dreamshaper 8 Inpainting
+![Dreamshaper 8 Comparison](tests/results/Lykon_dreamshaper-8-inpainting/comparison.jpg)
+
+
 ---
 
 ## 🎥 Пример использования Streamlit UI

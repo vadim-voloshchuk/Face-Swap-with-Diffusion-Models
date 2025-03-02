@@ -1,7 +1,8 @@
 {
     "stable-diffusion-inpainting": "stable-diffusion-v1-5/stable-diffusion-inpainting",
     "stable-diffusion-xl-1.0-inpainting-0.1": "diffusers/stable-diffusion-xl-1.0-inpainting-0.1",
-    "stable-diffusion-v1-5-inpainting": "benjamin-paine/stable-diffusion-v1-5-inpainting",
     "kandinsky-2-2-decoder-inpaint": "kandinsky-community/kandinsky-2-2-decoder-inpaint",
-    "svdq-int4-flux.1-fill-dev": "mit-han-lab/svdq-int4-flux.1-fill-dev"
+    "stable-diffusion-2-inpainting": "stabilityai/stable-diffusion-2-inpainting",
+    "realistic-vision-inpainting": "saik0s/realistic_vision_inpainting",
+    "dreamshaper-8-inpainting": "Lykon/dreamshaper-8-inpainting"
 }

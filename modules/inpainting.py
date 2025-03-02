@@ -124,11 +124,11 @@ def run_inpainting(target_img, ref_img, strength, guidance_scale, steps, padding
     try:
         pipe = AutoPipelineForInpainting.from_pretrained(
             model_name,
-            torch_dtype=torch.float16 if device == "cuda" else torch.float32,
-            variant="fp16" if device == "cuda" else None  # Поддержка FP16 на GPU
+            torch_dtype=torch.float16 if device == "cuda" else torch.float32  # Убираем variant
         ).to(device)
     except Exception as e:
         raise RuntimeError(f"Ошибка загрузки модели {model_name}: {e}")
+
 
     # Запуск inpainting
     result_padded = pipe(
