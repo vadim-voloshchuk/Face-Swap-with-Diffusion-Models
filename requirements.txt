@@ -1,5 +1,14 @@
+streamlit
 torch
 diffusers
-transformers
 opencv-python
 Pillow
+numpy
+facenet-pytorch
+dlib
+matplotlib
+pyparsing
+cycler
+kiwisolver
+imutils
+codeformer-pip

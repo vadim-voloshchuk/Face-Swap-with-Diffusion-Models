@@ -1,0 +1,7 @@
+{
+    "stable-diffusion-inpainting": "stable-diffusion-v1-5/stable-diffusion-inpainting",
+    "stable-diffusion-xl-1.0-inpainting-0.1": "diffusers/stable-diffusion-xl-1.0-inpainting-0.1",
+    "stable-diffusion-v1-5-inpainting": "benjamin-paine/stable-diffusion-v1-5-inpainting",
+    "kandinsky-2-2-decoder-inpaint": "kandinsky-community/kandinsky-2-2-decoder-inpaint",
+    "svdq-int4-flux.1-fill-dev": "mit-han-lab/svdq-int4-flux.1-fill-dev"
+}
